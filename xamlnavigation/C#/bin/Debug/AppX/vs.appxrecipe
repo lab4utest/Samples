@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDRÉS_LAB4U</Machine>
+    <WindowsUser>alvar_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.Navigation.CS</PackageIdentityName>
+    <IntermediateOutputPath>D:\lab4u\src\tests\WUAP\xamlnavigation\C#\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>830930CF40CA962B613E88315B45C26B1F8B2C8F90478EF8173345BD7B4BE460</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.Navigation.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.Navigation.CS_8wekyb3d8bbwe!SDKSample.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.Navigation.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-13T18:39:59.888</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Navigation.exe">
+      <PackagePath>Navigation.exe</PackagePath>
+      <Modified>2015-07-13T18:39:59.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Navigation.xr.xml">
+      <PackagePath>Navigation.xr.xml</PackagePath>
+      <Modified>2015-07-13T18:39:58.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\SimplePageType3Cacheable.xbf">
+      <PackagePath>SimplePageType3Cacheable.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\SimplePageType2Cacheable.xbf">
+      <PackagePath>SimplePageType2Cacheable.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\SimplePageType1Cacheable.xbf">
+      <PackagePath>SimplePageType1Cacheable.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\CancelNavigationPage.xbf">
+      <PackagePath>CancelNavigationPage.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\PageWithParameters.xbf">
+      <PackagePath>PageWithParameters.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Scenario4.xbf">
+      <PackagePath>Scenario4.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\SimplePage.xbf">
+      <PackagePath>SimplePage.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Scenario3.xbf">
+      <PackagePath>Scenario3.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Scenario2.xbf">
+      <PackagePath>Scenario2.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xbf</PackagePath>
+      <Modified>2015-07-13T18:39:59.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\lab4u\src\tests\WUAP\xamlnavigation\C#\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-13T18:39:59.722</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
